@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocalApiMKestrel", "LocalApiMKestrel\LocalApiMKestrel.csproj", "{F26AA510-B5F0-43B5-BB22-FEF476514736}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1C2D19DB-E59B-441D-9A51-579357C6E08E}"
+	ProjectSection(SolutionItems) = preProject
+		env.conf = env.conf
+		start.ps1 = start.ps1
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F26AA510-B5F0-43B5-BB22-FEF476514736}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F26AA510-B5F0-43B5-BB22-FEF476514736}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F26AA510-B5F0-43B5-BB22-FEF476514736}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F26AA510-B5F0-43B5-BB22-FEF476514736}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B86A264-E23B-49D6-81EC-B9E7861DCD73}
+	EndGlobalSection
+EndGlobal
