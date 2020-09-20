@@ -1,4 +1,4 @@
-# remove existing docker image
+# remove existing docker container 
 docker rm -f local-apim-demo
 
 # get current ip address that has internet
