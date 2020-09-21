@@ -6,7 +6,7 @@ using System.Collections.Generic;
 namespace LocalApiMDocker.Controllers
 {
     [Route("api/[controller]")]
-    public class DockerTestController : Controller
+    public class TestController : Controller
     {
         // GET: api/<controller>
         [HttpGet]
